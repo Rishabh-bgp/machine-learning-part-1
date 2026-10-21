@@ -25,5 +25,4 @@ Permutation importance (drop in R²): smoker_obese 0.572, smoker 0.311, age 0.16
 region 0.003, sex 0.000, obese 0.000.
 
 **Interpretation.** With the engineered `smoker_obese` feature, plain linear regression (R² 0.859) matches or slightly
-beats the tree ensembles (0.850–0.851). Modelling log(charges) linearly does much worse (R² 0.454), because the
-smoker × obesity effect is additive in cost, not multiplicative.
+beats the tree ensembles (0.850–0.851). Modelling log(charges) linearly does much worse (R² 0.454).
