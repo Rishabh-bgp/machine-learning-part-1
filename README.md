@@ -16,7 +16,7 @@ executed Jupyter notebooks covering **exploratory data analysis (EDA)**, data cl
 cross-validation, evaluation metrics, plots and model interpretation.
 
 > Practice work by **Rishabh Aryan**, written after the IIT Ropar guest lectures in the **6-Month Industrial Training & Certification Program in Artificial Intelligence and Machine Learning**, jointly offered by [IIT Ropar](https://www.iitrpr.ac.in/) and [NIELIT Ropar](https://www.nielit.gov.in/ropar/), under MeitY, Govt. of India.
-> Next parts: [Machine Learning Part 2 — computer vision with YOLO11](https://github.com/Rishabh-bgp/machine-learning-part-2) · [Machine Learning Part 3 — road damage detection with YOLO11](https://github.com/Rishabh-bgp/machine-learning-part-3).
+> Next parts: [Machine Learning Part 2 — computer vision with YOLO11](https://github.com/Rishabh-bgp/machine-learning-part-2) · [Machine Learning Part 3 — road damage detection with YOLO11](https://github.com/Rishabh-bgp/machine-learning-part-3) · [Responsible AI on UCI Adult — fairness & explainability audit](https://github.com/Rishabh-bgp/responsible-ai-uci-adult).
 
 ---
 
@@ -120,6 +120,7 @@ Code and documentation: MIT © 2026 Rishabh Aryan. Data licences: see [docs/data
 | [pan-cancer-classification](https://github.com/Rishabh-bgp/pan-cancer-classification) | Leakage, equivalence, conformal reliability and data efficiency on the UCI TCGA Pan-Cancer RNA-Seq dataset — IIT… | — |
 | [Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks](https://github.com/Rishabh-bgp/Predicting-Hot-Events-in-the-Early-Period-through-Bayesian-Model-for-Social-Networks) | This notebook details the implementation and evaluation of a Bayesian perspective Early stage Event Prediction… | — |
 | [prediction-as-power](https://github.com/Rishabh-bgp/prediction-as-power) | Laboratory and working paper on prediction as power in European electricity markets. A DE-like hourly simulator… | — |
+| [responsible-ai-uci-adult](https://github.com/Rishabh-bgp/responsible-ai-uci-adult) | Responsible-AI audit on UCI Adult: fairness with bootstrap CIs, mitigation Pareto front, SHAP/LIME/permutation audit, live dashboard | [▶ open](https://rishabh-bgp.github.io/responsible-ai-uci-adult/) |
 | [real-estate-valuation-taiwan](https://github.com/Rishabh-bgp/real-estate-valuation-taiwan) | Taiwan real estate valuation (Xindian, New Taipei): house price per ping prediction with scikit-learn gradient… | [open](https://rishabh-bgp.github.io/real-estate-valuation-taiwan/) |
 | [snakes-and-ladders](https://github.com/Rishabh-bgp/snakes-and-ladders) | 🐍🪜 Original Snakes & Ladders browser game: hand-drawn SVG snakes and ladders, 3D dice, 2-4 humans or bots, sound,… | [open](https://rishabh-bgp.github.io/snakes-and-ladders/) |
 | [spam-scan](https://github.com/Rishabh-bgp/spam-scan) | Explainable spam, phishing & Indian-scam detector for SMS/email (English, Hindi, Hinglish): TF-IDF + Logistic… | [open](https://spam-scan.onrender.com) |
